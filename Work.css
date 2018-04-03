@@ -1,0 +1,140 @@
+		.Work_head{
+
+			width: 450px;
+			height: 60px;
+	
+			padding-left: 60px;
+			padding-right: 60px;
+			background-color: #ffffff;
+
+		}
+		.Work_text{
+			font-size: 50pt;
+			color: #a0a09f;	
+			
+				
+			text-align: center;	
+			display: inline-block;	
+
+		
+			animation: title 5s ease infinite;
+		}
+		.Work_frame{
+			margin-top: 110px;
+		
+			height: 642px;
+		
+		}
+		
+		.Work_header{
+			height: 90px;
+			background: url(line.png) no-repeat center;
+
+		}
+
+		.Work_container{
+			width: 980px;
+			height: 532px;
+			margin-top: 70px;
+		}
+
+
+
+		img.jpa{
+		
+			opacity: 0.0;
+		}
+		img.toeic{
+		
+			opacity: 0.0;
+		}
+
+		img.jpa:hover{
+			opacity: 1.0;
+		}
+
+		img.fitness{
+			opacity: 0.0;
+		}
+
+		img.fitness:hover{
+			opacity: 1.0;
+		}
+
+		img.toeic:hover{
+			opacity: 1.0;
+		}
+
+		.mySlides{
+			height: 300px;
+			width: 300px;
+		}
+
+		.Work_imgText{
+			font-size: 12pt;
+			font-weight: bold;
+			color: #848484;
+
+		}
+		.Work_myImg{
+		
+			width: 130px;
+			height: 140px;
+			top: 0px;
+			left: 0px;
+			opacity: 0.0;
+			position: relative;
+
+		}
+		.Work_imgBox{
+			width: 300px;
+			height: 300px;
+			
+		}
+		
+		.Work_my{
+
+			float: center;
+			width: 300px;
+			height: 300px;
+		
+		}
+
+		.Work_myImg:hover{
+
+			opacity: 1.0;
+
+		}
+
+		.Work_animaition{
+			float: right;
+			
+			width: 300px;
+			
+			animation: name 2s ease infinite;
+			position: relative;
+		}
+		
+
+		.Work_myName{
+			font-size: 15pt;
+
+			text-align: left;
+		}
+
+		@keyframes name{
+			0%{
+				
+				bottom: 200px;
+			}
+
+			50%{
+				bottom: -100px;
+				color: #bada55;
+
+			}
+			100%{
+				bottom: 200px;
+							
+			}	
+		}

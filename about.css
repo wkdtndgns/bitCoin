@@ -1,0 +1,48 @@
+		.About_head{
+
+			width: 330px;
+			height: 60px;
+	
+			padding-left: 60px;
+			padding-right: 60px;
+			background-color: #ffffff;
+
+		}
+		.About_text{
+			font-size: 50pt;
+			color: #a0a09f;	
+			
+				
+			text-align: center;	
+			display: inline-block;	
+
+		
+			animation: title 5s ease infinite;
+		}
+		.About_frame{
+			margin-top: 117px;
+	
+			height: 488px;
+	
+		}
+		
+		.About_header{
+			height: 90px;
+			
+			background: url(line.png) no-repeat center;
+
+		}
+		
+		.About_container{
+			margin-top: 100px;
+			width: 619px;
+			height: 130px;
+			font-size: 15pt;
+			color: #605e5e;
+
+		}
+
+
+		.About_container:hover{
+			color: #b6e8e3;
+		}

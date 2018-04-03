@@ -1,0 +1,97 @@
+	.Service_head{
+
+			width: 450px;
+			height: 60px;
+	
+			padding-left: 60px;
+			padding-right: 60px;
+			background-color: #ffffff;
+
+		}
+		.Service_text{
+			font-size: 50pt;
+			color: #a0a09f;	
+			
+				
+			text-align: center;	
+			display: inline-block;	
+
+		
+			animation: title 5s ease infinite;
+		}
+		.Service_frame{
+			margin-top: 110px;
+		
+			height: 642px;
+		
+		}
+		
+		.Service_header{
+			height: 90px;
+			background: url(line.png) no-repeat center;
+
+		}
+
+		.Service_container{
+			width: 980px;
+			height: 582px;
+			margin-top: 70px;
+	
+		}
+
+		.Service_content{
+			width: 266px;
+	
+		}
+		
+		img.wallet{
+			height: 170px;
+			width: 170px;
+			float: left;
+			margin-left: 70px;
+		}
+		img.buy{
+			height: 170px;
+			width: 170px;
+			float: center;
+		}
+
+		img.atm{
+			height: 170px;
+			width: 170px;
+			float: right;
+			margin-right: 40px;
+		}
+
+
+		.Service_contentWallet{
+			float: left;
+			width: 266px;
+			margin-left: 20px;
+			display: inline-block;
+		}
+
+		.Service_contentBuy{
+			float: center;
+			width: 266px;
+			display: inline-block;
+		}
+
+		.Service_contentAtm{
+			float: right;
+			width: 266px;
+			display: inline-block;
+			
+		}
+
+		.Service_contentHead{
+			color: #605e5e;
+			font-size: 19pt;
+
+		}
+
+		.Service_contentText{
+			color: #605e5e;
+			font-size: 15;
+		}
+
